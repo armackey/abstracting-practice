@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "validator": "^4.2.1"
   }
 }

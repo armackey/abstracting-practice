@@ -1,0 +1,15 @@
+{
+  "name": {
+    "type": "alpha"
+  },
+  "email": {
+    "type": "email"
+  },
+  "loggedIn": {
+    "type": "boolean", "private": true
+  },
+  "gender": {
+    "type": "string",
+    "any": ["male", "female", "unspecified", "other"]
+  }
+}
